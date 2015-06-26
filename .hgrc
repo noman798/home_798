@@ -22,7 +22,7 @@ bookmarks =
 hgext.bookmarks=
 
 [web]
-cacerts = /etc/ssl/certs/ca-certificates.crt
+cacerts = /etc/pki/tls/certs/ca-bundle.crt
 
 [color]
 status.modified = blue underline red_background
