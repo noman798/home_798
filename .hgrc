@@ -20,7 +20,7 @@ hgext.graphlog =
 progress =
 bookmarks =
 hgext.bookmarks=
-
+hggit = 
 [web]
 cacerts = /etc/pki/tls/certs/ca-bundle.crt
 
